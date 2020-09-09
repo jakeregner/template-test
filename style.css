@@ -1,0 +1,11 @@
+html {
+    box-sizing: border-box;
+    /* Prevents padding from adding horizontal length to the page */
+}
+
+body {
+    margin: 0;
+    min-height: 100vh;
+    /* Viewport height, full height of entire window. Always stretch background the full height of the screen if content cannot do that. */
+    background: dodgerblue;
+}
